@@ -2,7 +2,7 @@
 
 This repository is a collaborative space for sharing **problem set** and **midterm** solutions after the deadlines for the MITx courses:
 - [6.001x: Introduction to Computer Science and Programming Using Python]
-- [6.002x: Circuits and Electronics]
+- [6.002x: Introduction to Computational Thinking and Data Science]
 - 
 ## 📌 Goal
 
