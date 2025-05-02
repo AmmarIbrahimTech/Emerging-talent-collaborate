@@ -18,6 +18,5 @@ Each problem set or exam folder contains named solution files by students.
 ## 🔐 Rules
 
 - **Do NOT upload solutions before official deadlines.**
-- Respect everyone's work and always give credit when referencing someone else's solution.
 
 
