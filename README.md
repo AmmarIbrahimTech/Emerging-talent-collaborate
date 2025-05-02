@@ -1,4 +1,4 @@
-# emerging-talent-collaborate
+# Emerging-talent-collaborate
 
 This repository is a collaborative space for sharing **problem set** and **midterm** solutions after the deadlines for the MITx courses:
 - [6.001x: Introduction to Computer Science and Programming Using Python]
